@@ -1,0 +1,12 @@
+{
+  "java": true,
+  "ie": true,
+  "edge": true,
+  "chrome": false,
+  "firefox": false,
+  "clear_java_cache": true,
+  "clear_ie_temp": true,
+  "clear_edge_cache": true,
+  "clear_chrome_cache": false,
+  "clear_firefox_cache": false
+}
