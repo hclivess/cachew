@@ -1,2 +1,2 @@
-python -m nuitka cachew.py --standalone --onefile --enable-plugin=tk-inter
+python -m nuitka cachew.py --onefile --enable-plugin=tk-inter --windows-disable-console
 pause
